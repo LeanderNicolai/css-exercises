@@ -1,0 +1,25 @@
+* {
+    font-family: "Verdana", sans-serif;
+}
+
+.styled-pink {
+    background-color: rgb(246, 127, 236);
+    font-size: 18px;
+    font-family: "Verdana", "DejaVu Sans", sans-serif;
+}
+
+.styled-pink.bigger {
+    font-size: 30px;
+}
+
+#number-2 {
+    font-size: 36px;
+    font-weight: bold;
+    color: blue;
+}
+
+#number-4 {
+    font-size: 24px;
+    font-weight: bold;
+    background-color: lightgreen;
+}
